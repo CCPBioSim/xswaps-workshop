@@ -35,15 +35,9 @@ This will open a Jupyter notebook interface. Be patient as this may take 30-60 s
 Once this has opened, navigate to the `xswaps` directory and you will find the
 notebooks there.
 
-If you just want to look at the notebooks, you can see them here. Note that
-you should complete 'LigandSwap' first, but are free to then look at 
-'WaterSwap' or 'ProteinSwap' in any order.
+The workshop is divided into three parts. You should complete 'LigandSwap' first, 
+but are free to then look at 'WaterSwap' or 'ProteinSwap' in any order.
 
-## LigandSwap
-
-* [Part 1](part1.html) : [jupyter notebook](part1.ipynb)
-
-## WaterSwap
-
-
-## ProteinSwap
+* [LigandSwap](ligandswap/README.md)
+* [WaterSwap](waterswap/README.md)
+* [ProteinSwap](proteinswap/README.md)
