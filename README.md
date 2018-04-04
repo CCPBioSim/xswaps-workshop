@@ -28,11 +28,9 @@ and ProteinSwap simulations.
 
 The workshop consists of a series of Jupyter notebooks. These are available
 below, and can be run using the 
-[workshop jupyter server](https://workshop.biosimspace.org/hub/tmplogin).
+<a href="https://ccpbiosim.github.io/workshop/events/bristol2018/server.html" target="_blank">workshop jupyter server</a>.
 
-Start the server by [clicking here](https://workshop.biosimspace.org/hub/tmplogin).
-This will open a Jupyter notebook interface. Be patient as this may take 30-60 seconds.
-Once this has opened, navigate to the `xswaps` directory and you will find the
+Once you have started the server, navigate to the `xswaps` directory and you will find the
 notebooks there.
 
 The workshop is divided into three parts. You should complete 'LigandSwap' first, 
