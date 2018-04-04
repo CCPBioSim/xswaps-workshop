@@ -2,7 +2,7 @@
 
 ## Aimed at: 
 Anyone interested in learning how to run WaterSwap, LigandSwap or ProteinSwap 
-calculations for predicting and visualisaing how changes in a ligand or mutations 
+calculations for predicting and visualising how changes in a ligand or mutations 
 of a protein affect protein-ligand binding.
 
 ## Requirements: 
