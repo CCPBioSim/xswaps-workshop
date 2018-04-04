@@ -33,6 +33,8 @@ below, and can be run using the
 Once you have started the server, navigate to the `xswaps` directory and you will find the
 notebooks there.
 
+## Contents
+
 The workshop is divided into three parts. You should complete 'LigandSwap' first, 
 but are free to then look at 'WaterSwap' or 'ProteinSwap' in any order.
 
