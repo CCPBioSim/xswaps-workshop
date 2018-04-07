@@ -34,9 +34,9 @@ This λ reaction coordinate acts such that;
 
 The effect of λ is to swap ligand A and ligand B between the protein box and water box, as shown in the figures below.
 
-[λ=0.0](images/ligandswap00.jpg)
-[λ=0.5](images/ligandswap05.jpg)
-[λ=1.0](images/ligandswap10.jpg)
+![λ=0.0](images/ligandswap00.jpg)
+![λ=0.5](images/ligandswap05.jpg)
+![λ=1.0](images/ligandswap10.jpg)
 
 The energy expression is given below;
 
