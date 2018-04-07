@@ -18,12 +18,12 @@ second periodic box of water that contains ligand B on its own (the `Water Box`)
 
 The λ-coordinate is used to swap ligands A and B, such that;
 
-at λ=0.0, ligand A is bound to the protein, and ligand B is free in water (as shown above),
+* at λ=0.0, ligand A is bound to the protein, and ligand B is free in water (as shown above),
 
-at λ=1.0, ligand B is bound to the protein, and ligand A is free in water (as shown below),
+* at λ=1.0, ligand B is bound to the protein, and ligand A is free in water (as shown below),
 ![λ=1.0](images/ligandswap10.jpg)
 
-and at λ values in between, ligands A and B are both partially bound to the protein, and both ligands A and B are both partially free in water (as shown below).
+* and at λ values in between, ligands A and B are both partially bound to the protein, and both ligands A and B are both partially free in water (as shown below).
 ![λ=0.5](images/ligandswap05.jpg)
 
 The free energy change along this ligandswap λ reaction coordinate can be
