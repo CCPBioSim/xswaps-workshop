@@ -35,8 +35,11 @@ notebooks there.
 
 ## Contents
 
-The workshop is divided into three parts. You should complete 'LigandSwap' first, 
-but are free to then look at 'WaterSwap' or 'ProteinSwap' in any order.
+The workshop is divided into three parts. You should complete
+[LigandSwap](ligandswap/README.md) first, 
+but are free to then look at 
+[WaterSwap](waterswap/README.md) or 
+[ProteinSwap](proteinswap/README.md) in any order.
 
 * [LigandSwap](ligandswap/README.md)
 * [WaterSwap](waterswap/README.md)
