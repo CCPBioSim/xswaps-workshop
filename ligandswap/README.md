@@ -33,7 +33,7 @@ calculated using any standard free energy method, e.g.
 [thermodynamic integration (TI)](https://en.wikipedia.org/wiki/Thermodynamic_integration). 
 Indeed, to measure error, the ligandswap program with Sire calculates the free energy using all three methods at the same time.
 
-If you want more information about ligandswap, please [take a look here](theory.md).
+If you want more information about the theory behind ligandswap, please [take a look here](theory.md).
 
 ## Training material
 
